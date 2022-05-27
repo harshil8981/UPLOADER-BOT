@@ -1,4 +1,4 @@
-# (c) @AbirHasan2005 | X-Noid | @DC4_WARRIOR
+# (c) @harshil8981 | Mr Killer Official 
 
 import datetime
 import motor.motor_asyncio
