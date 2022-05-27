@@ -1,6 +1,6 @@
-#### [UPLOADER-BOT](https://t.me/uploader_x_bot)
+#### [UPLOADER-BOT](https://t.me/uploader_HP_bot)
 
-[![Size](https://img.shields.io/github/repo-size/Clinton-Abraham/UPLOADER-BOT?style=flat-square&color=green)](https://github.com/Clinton-Abraham/UPLOADER-BOT)
+[![Size](https://img.shields.io/github/repo-size/harshil8981/UPLOADER-BOT?style=flat-square&color=green)](https://github.com/harshil8981/UPLOADER-BOT)
 
 ---
 
@@ -28,7 +28,7 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 heroku/python
 ```
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Clinton-Abraham/UPLOADER-BOT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/harshil8981/UPLOADER-BOT)
 
 
 ## 🍃 How To Get Mongodb URI - [ Watch Video ](https://youtu.be/YIYSby2PcfU)
@@ -36,7 +36,7 @@ heroku/python
 
 ## 🚸 HEROKU CLI COMMANDS
 
-`* git clone https://github.com/Clinton-Abraham/UPLOADER-BOT.git`
+`* git clone https://github.com/harshil8981/UPLOADER-BOT.git`
 
 `* heroku login`
 
@@ -61,19 +61,18 @@ heroku/python
 
 ## OTHER BOTS 🕊️
 
-* Rᴇɴᴀᴍᴇ x ʙᴏᴛ  -  [ ꜱᴛᴀʀᴛ ](https://t.me/rename_x_bot)
 
-* Tᴏʀʀᴇɴᴛ x ʙᴏᴛ  -  [ ꜱᴛᴀʀᴛ ](https://t.me/torrent_x_bot)
 
-* Uᴘʟᴏᴀᴅᴇʀ x ʙᴏᴛ  -  [ ꜱᴛᴀʀᴛ ](https://t.me/uploader_x_bot)
+* Uᴘʟᴏᴀᴅᴇʀ x ʙᴏᴛ  -  [ ꜱᴛᴀʀᴛ ](https://t.me/uploader_hp_bot)
 
-* Sʜᴏʀᴛɴᴇʀ x ʙᴏᴛ  -  [ ꜱᴛᴀʀᴛ ](https://t.me/shortner_x_bot)
+
+
 
 ## Credits, and Thanks to
 
-* [@SpEcHlDe](https://t.me/ThankTelegram) for his [AnyDLBot](https://telegram.dog/AnyDLBot)
+* [Hp Bot](https://t.me/Hp_botupdate) for his [Uploader HP Bot](https://telegram.dog/uploader_hp_bot)
 * [Dan Tès](https://t.me/haskell) for his [Pyrogram Library](https://github.com/pyrogram/pyrogram)
 * [Yoily](https://t.me/YoilyL) for his [UploaditBot](https://telegram.dog/UploaditBot)
-* [@DC4_WARRIOR](https://t.me/Space_X_bots) it's me
+* [@harshil8981](https://t.me/Mrkiller_1109) it's me
 #### LICENSE
 - GPLv3
