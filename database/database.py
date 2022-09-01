@@ -1,4 +1,4 @@
-# (c) @harshil8981 | Mr Killer Official 
+# (c) @harshil8981
 
 import datetime
 import motor.motor_asyncio
