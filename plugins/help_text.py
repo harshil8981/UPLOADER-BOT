@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# (c) harshil8981
+# (c) Shrimadhav U K
 
 # the logging things
 import logging
@@ -46,11 +46,11 @@ async def start(bot, update):
             [
                 [
                     InlineKeyboardButton(
-                        "Source code ⚡", url="https://github.com/harshil8981/UPLOADER-BOT"
+                        "Source code ⚡", url="https://github.com/Clinton-Abraham/UPLOADER-BOT"
                     ),
-                    InlineKeyboardButton("Project Channel 👨🏻‍💻", url="https://t.me/Hp_botupdate"),
+                    InlineKeyboardButton("Project Channel 👨🏻‍💻", url="https://t.me/Space_X_bots"),
                 ],
-                [InlineKeyboardButton("Developer 👨‍⚖️", url="https://t.me/Mrkiller_1109")],
+                [InlineKeyboardButton("Developer 👨‍⚖️", url="https://t.me/clinton_abraham")],
             ]
         ),
         reply_to_message_id=update.message_id

@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# (c) Mr Killer Official | Modifieded By : @harshil8981
+# (c) Shrimadhav U K | Modifieded By : @harshil8981
 
 # the logging things
 import logging

@@ -1,5 +1,5 @@
 
-# (c) @harshil8981 | Mr Killer Official 
+# (c) @harshil8981
 
 import traceback, datetime, asyncio, string, random, time, os, aiofiles, aiofiles.os
 from database.access import clinton
