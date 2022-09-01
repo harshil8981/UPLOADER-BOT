@@ -29,7 +29,7 @@ URL | filename | username | password"""
    Video  - Give File as video without Screenshots
    File   - Give File without Screenshots
 
-If bot didn't respond, contact @Sources_Codes"""
+If bot didn't respond, contact @Mrkiller_1109"""
     REPLY_TO_MEDIA_ALBUM_TO_GEN_THUMB = "Reply /generatecustomthumbnail to a media album, to generate custom thumbail"
     ERR_ONLY_TWO_MEDIA_IN_ALBUM = """Media Album should contain only two photos. Please re-send the media album, and then try again, or send only two photos in an album."
 You can use /rename command after receiving file to rename it with custom thumbnail support.
